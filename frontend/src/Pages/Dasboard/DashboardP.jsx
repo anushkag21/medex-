@@ -1,3 +1,4 @@
+// Here this is the frontend page and we are importing pages to support the react file
 import React from "react";
 import { SidebarP } from "../../components/SidebarP";
 import { Navbar } from "../../components/Navbar";
